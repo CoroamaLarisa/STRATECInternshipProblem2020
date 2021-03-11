@@ -8,4 +8,6 @@ This program was made in collaboration with Coroama Diana-Mihaela
 
 For step one , the program outputs:
 
+<p align="center">
 <img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png" width="250" height="250">
+</p>
