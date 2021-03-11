@@ -8,3 +8,5 @@ This program was made in collaboration with Coroama Diana-Mihaela
 
 For step one , the program outputs:
 ![Alt text](https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png = 250x250)
+
+<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png" width="100" height="100">
