@@ -11,3 +11,11 @@ For step one , the program outputs:
 <p align="center">
 <img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png" width="250" height="250">
 </p>
+
+
+For the second step :
+
+<p align="center">
+<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_two.png" width="250" height="250">
+</p>
+
