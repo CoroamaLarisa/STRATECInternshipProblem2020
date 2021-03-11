@@ -20,7 +20,7 @@ For the second step :
 </p>
 
 
-For the third step (which needed to make some roads that do run into each other and indicate where they intersect ):
+For the third step (which needed to indicate where given roads intersect ):
 
 <p align="center">
 <img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_three.png" width="300" height="300">
