@@ -7,4 +7,4 @@ The goal of the software is to accurately connect the dots. While making sure ev
 This program was made in collaboration with Coroama Diana-Mihaela
 
 For step one , the program outputs:
-![Alt text](https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png)
+![Alt text](https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_one.png = 250x250)
