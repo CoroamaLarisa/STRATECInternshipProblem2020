@@ -31,6 +31,6 @@ The last step was the most challenging one. We opted to the user to input their 
 
 One example of user inputting matrix(where the matrix is 20x20) is:
 <p align="center">
-<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_four.png" width="300" height="300">
-  <img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_four_resulted.png" width="300" height="300">
+<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_four.png" width="500" height="500">
+  <img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/step_four_resulted.png" width="500" height="500">
 </p>
