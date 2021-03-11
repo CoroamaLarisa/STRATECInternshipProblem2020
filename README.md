@@ -1,0 +1,1 @@
+# STRATECInternshipProblem2020
