@@ -1,7 +1,7 @@
 # STRATECInternshipProblem2020
 
 <p align="center">
-<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/GUIbegin.png" width="300" height="100">
+<img src="https://github.com/CoroamaLarisa/STRATECInternshipProblem2020/blob/main/images_internship/GUIbegin.png" width="300" height="200">
 </p>
 
 
